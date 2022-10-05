@@ -62,7 +62,7 @@ JS/FE PRE-SCHOOL 2022Q2 projects:
 
 ## Courses:
 * THE Rolling Scopes School JS/FE PRE-SCHOOL 2022Q2 (JAVASCRIPT) - certificate of completion
-* IT-academy - Computer Science
+* IT-academy - Computer Science course
 * HTML and CSS Tutorials on the code-basics.com (completed)
 * HTML course on the codecademy.com (completed)
 
